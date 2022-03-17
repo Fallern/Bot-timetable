@@ -30,3 +30,9 @@ Set your values in the configuration file:
 
 ![image](https://user-images.githubusercontent.com/48813221/158750581-00278cdd-58a9-49f5-ab6a-74bc04ec6231.png)
 
+Run Bot:
+
+```python
+python main.py
+```
+
